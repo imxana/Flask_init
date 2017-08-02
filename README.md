@@ -1,6 +1,6 @@
-## Flask_init
+## [Flask_init](https://github.com/imxana/Flask_init)
 
-A simple flask framework, for B/S web application.
+A simple flask framework, for B/S web application. 
 
 ### Function
 
